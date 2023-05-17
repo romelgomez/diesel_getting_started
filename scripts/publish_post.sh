@@ -1,0 +1,1 @@
+cargo run --bin publish_post $1
